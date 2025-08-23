@@ -29,10 +29,16 @@ npm install --save-dev nodemon
 npm run server
 
 
-
+brevo
+node mailer
 inngest
 clerk - authentication google
 mangodb atlas
+imagekit.io
+npm install imagekit --save
+
+npm install nodemailer
+npm install @clerk/express
 -->
 
 
