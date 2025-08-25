@@ -26,6 +26,9 @@ npm init -y
 npm install express cors dotenv mongoose multer
 npm install --save-dev nodemon
 
+
+
+
 npm run server
 
 

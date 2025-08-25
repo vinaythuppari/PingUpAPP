@@ -10,7 +10,7 @@ export const addUserStory = async (req, res) => {
         const {userId} = req.auth();
         const {content, media_type, background_color} = req.body;
         const media = req.file
-        const media_url = '';
+        let media_url = '';
 
         // upload media to imagekit
         if(media_type === 'image' || media_type === 'video') {
