@@ -13,7 +13,7 @@ Designed for scalability, smooth user interaction, and an engaging community exp
 - 👥 **Follow/Unfollow System** – Connect and engage with other users.
 - 💬 **Real-Time Chat** – Instant messaging using **WebSockets**.
 - 🔍 **User Discovery** – Find and explore profiles to grow your network.
-- 🔐 **Authentication** – Secure login and signup using JWT.
+- 🔐 **Authentication** – Secure login and signup.
 - 🎨 **Responsive UI** – Built with **Tailwind CSS** for a modern, mobile-friendly design.
 
 ---
